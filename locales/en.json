@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "Opuntia",
+    "description": "Vite + Vue 3 SPA web starter template."
+  },
+  "page": {
+    "home": {
+      "title": "Opuntia",
+      "get-network-data": "Get network data through"
+    },
+    "about": {
+      "title": "About"
+    }
+  },
+  "button": {
+    "about": "About",
+    "back": "Back",
+    "home": "Home",
+    "fetch": "Fetch",
+    "toggle-dark": "Toggle dark mode",
+    "toggle-locale": "Change languages"
+  },
+  "not-found": "Page Not found"
+}

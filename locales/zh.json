@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "Opuntia",
+    "description": "Vite + Vue 3 单页面 Web 启动模板。"
+  },
+  "page": {
+    "home": {
+      "title": "Opuntia",
+      "get-network-data": "获取网络数据通过"
+    },
+    "about": {
+      "title": "关于"
+    }
+  },
+  "button": {
+    "about": "关于",
+    "back": "返回",
+    "home": "首页",
+    "fetch": "Fetch",
+    "toggle-dark": "切换深色模式",
+    "toggle-locale": "切换语言"
+  },
+  "not-found": "未找到页面"
+}
